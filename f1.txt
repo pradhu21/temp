@@ -1,6 +1,4 @@
 hii
 hello
 welcome
-hiii
-heloo
-wecomeee
+
